@@ -1,44 +1,36 @@
-# App CRUD
+# Projeto CRUD
 
-## Sobre o projeto
+## Sobre o projeto:
+- Crud completo, com criação, leitura, atualização e remoção
 
-**Crud completo, com criação, leitura, atualização e remoção**
+## Layout Mobile:
 
-### Como instalar:
-**Baixe o apk no seu smartphone, cerifique-se de que seu smartphone está configurado para aceitar apps de terceiros, assim não terá conflitos.**
+![image](https://github.com/fabio-solbego/Atividade9/assets/83030668/01c460fb-aca0-4031-ac20-321fb10f5c0a)
+![image](https://github.com/fabio-solbego/Atividade9/assets/83030668/dbb732a4-5c0b-4d11-a81a-3a2b15f52951)
+![image](https://github.com/fabio-solbego/Atividade9/assets/83030668/31b6b2d6-ebcf-4459-a142-727ca9add5f4)
 
-### Pré-Requisitos:
-**Android 24 em diante.**
-<br>
-
-### APK:
-<a href=./appCompras.apk>Download APK </a>
-
-### Layout mobile:
-<div>
-<img width=200px src="https://github.com/Arthur-Cardoso-de-Jesus/Atividade9/assets/83030989/21531cb7-b15b-4497-a16a-a7775235fc2b">
-  <img width=200px src="https://github.com/Arthur-Cardoso-de-Jesus/Atividade9/assets/83030989/d6cc3884-7c11-466c-b0fb-0544e0bc201a">
-  <img width=200px src="https://github.com/Arthur-Cardoso-de-Jesus/Atividade9/assets/83030989/303091dd-bc0f-4612-8d44-08431e9ecc0d">
-</div>
-
-
-<br><br>
-<hr>
 
 
 ## Tecnologias utilizadas:
 
-### BackEnd:
-**Java.**
+- Backend - Java (Mobile)
 
-### FrontEnd:
-**XML.**
+- Frontend - XML (Activity)
 
-### IDE
-**Android studio**
+## IDE:  
 
-<br></br>
-<hr>
+- Android Studio
 
-### Autor:
-<a href="https://github.com/Arthur-Cardoso-de-Jesus">  Arthur Cardoso de Jesus  </a>
+## APK do Projeto:
+
+<a href="https://drive.google.com/file/d/1rTN_xboMUkgxhhcTaT2TdHUYMZ0xkNis/view?usp=sharing">Download do APP </a>
+
+## Como instalar:
+
+1 - Clique no link de download
+
+2 - Clique no botão "Download"
+
+## Pré-requisitos:
+
+- Versão do Android 8.0
